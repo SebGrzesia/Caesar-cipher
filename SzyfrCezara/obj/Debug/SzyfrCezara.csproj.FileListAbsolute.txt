@@ -1,0 +1,8 @@
+D:\c# projekty\SzyfrCezara\SzyfrCezara\bin\Debug\SzyfrCezara.exe.config
+D:\c# projekty\SzyfrCezara\SzyfrCezara\bin\Debug\SzyfrCezara.exe
+D:\c# projekty\SzyfrCezara\SzyfrCezara\bin\Debug\SzyfrCezara.pdb
+D:\c# projekty\SzyfrCezara\SzyfrCezara\obj\Debug\SzyfrCezara.csproj.AssemblyReference.cache
+D:\c# projekty\SzyfrCezara\SzyfrCezara\obj\Debug\SzyfrCezara.csproj.SuggestedBindingRedirects.cache
+D:\c# projekty\SzyfrCezara\SzyfrCezara\obj\Debug\SzyfrCezara.csproj.CoreCompileInputs.cache
+D:\c# projekty\SzyfrCezara\SzyfrCezara\obj\Debug\SzyfrCezara.exe
+D:\c# projekty\SzyfrCezara\SzyfrCezara\obj\Debug\SzyfrCezara.pdb
